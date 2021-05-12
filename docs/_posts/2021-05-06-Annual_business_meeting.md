@@ -8,6 +8,7 @@ tags:
   - Annual Reports
   - Election of Officers
   - Year in Reveiw
+  - Slide show
 ---
 
 Text will go here
